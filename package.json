@@ -1,0 +1,23 @@
+{
+  "name": "ghl-workflows",
+  "version": "1.0.0",
+  "description": "HighLevel (GHL) workflow architecture and implementation repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SedrickHarris/ghl-workflows-rep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SedrickHarris/ghl-workflows-rep/issues"
+  },
+  "homepage": "https://github.com/SedrickHarris/ghl-workflows-rep#readme",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}

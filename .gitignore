@@ -13,5 +13,8 @@ Thumbs.db
 # Logs
 *.log
 
-# Defensive (no package installs planned)
+# Node.js
 node_modules/
+# Categorization script inputs/outputs (regeneratable, not source)
+paste.txt
+output/
