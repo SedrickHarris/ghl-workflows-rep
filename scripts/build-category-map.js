@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const fetch = require('node-fetch');
+const cheerio = require('cheerio');
 
 const INPUT = path.join(__dirname, '../paste.txt');
 const RULES = path.join(__dirname, '../config/category-rules.json');
@@ -25,8 +26,9 @@ async function fetchTitle(url) {
   try {
     const res = await fetch(url);
     const html = await res.text();
-    const m = html.match(/<title>(.*?)<\/title>/i);
-    if (m) return m[1].replace(/\s*-\s*HighLevel Support Portal\s*$/i, '').trim();
+    const $ = cheerio.load(html);
+    const title = $('title').first().text();
+    if (title) return title.replace(/\s*-\s*HighLevel Support Portal\s*$/i, '').trim();
   } catch {}
   return titleFromSlug(url);
 }

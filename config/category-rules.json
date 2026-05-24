@@ -12,7 +12,8 @@
     "ai agent studio"
   ],
   "ghl-knowledge-bases": [
-    "knowledge base"
+    "knowledge base",
+    "nowledge base"
   ],
   "ghl-voice-ai": [
     "voice ai"
@@ -48,6 +49,31 @@
     "campaign verify",
     "cv token"
   ],
+  "ghl-workflow-triggers": [
+    "workflow trigger",
+    "triggers - overview",
+    "triggers overview"
+  ],
+  "ghl-workflow-actions": [
+    "workflow action",
+    "what are workflow actions",
+    "a list of workflow actions"
+  ],
+  "ghl-workflow-builder": [
+    "workflow builder",
+    "workflow ai assistant",
+    "workflow ai builder",
+    "advanced builder",
+    "workflow version history",
+    "workflow auto-save",
+    "workflow undo",
+    "keyboard shortcuts in workflow"
+  ],
+  "ghl-workflows": [
+    "workflow",
+    "automation",
+    "campaigns are no longer maintained"
+  ],
   "ghl-email-deliverability": [
     "deliverability",
     "spf",
@@ -73,7 +99,9 @@
   "ghl-lc-email": [
     "lc email",
     "lc-email",
+    "lc - email",
     "what is lc email",
+    "what is lc - email",
     "dedicated sending domain",
     "dedicated email",
     "dedicated ip",
@@ -145,29 +173,6 @@
     "deskphone",
     "voip"
   ],
-  "ghl-workflow-triggers": [
-    "workflow trigger"
-  ],
-  "ghl-workflow-actions": [
-    "workflow action",
-    "what are workflow actions",
-    "a list of workflow actions"
-  ],
-  "ghl-workflow-builder": [
-    "workflow builder",
-    "workflow ai assistant",
-    "workflow ai builder",
-    "advanced builder",
-    "workflow version history",
-    "workflow auto-save",
-    "workflow undo",
-    "keyboard shortcuts in workflow"
-  ],
-  "ghl-workflows": [
-    "workflow",
-    "automation",
-    "campaigns are no longer maintained"
-  ],
   "ghl-calendars-appointments": [
     "calendar",
     "appointment",
@@ -198,6 +203,7 @@
   ],
   "ghl-conversations": [
     "conversations",
+    "conversation",
     "inbox",
     "internal comment",
     "draft message",
@@ -248,12 +254,18 @@
     "auto-recharge"
   ],
   "ghl-documents-contracts": [
-    "document",
-    "contract",
-    "signature",
-    "e-sign",
+    "documents & contracts",
+    "documents and contracts",
+    "documents-contracts",
+    "contract template",
+    "contract templates",
+    "send contracts",
     "decline document",
-    "documents-contracts"
+    "esignature",
+    "e-signature",
+    "e-sign",
+    "signature type",
+    "send documents"
   ],
   "ghl-reputation-management-reviews": [
     "review",
@@ -431,7 +443,8 @@
     "media storage",
     "media library",
     "file upload",
-    "canva"
+    "canva",
+    "media help"
   ],
   "ghl-memberships-communities": [
     "community",

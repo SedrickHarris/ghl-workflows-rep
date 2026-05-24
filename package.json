@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/SedrickHarris/ghl-workflows-rep#readme",
   "dependencies": {
+    "cheerio": "^1.2.0",
     "node-fetch": "^2.7.0"
   }
 }
