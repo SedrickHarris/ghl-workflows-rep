@@ -1,0 +1,480 @@
+{
+  "ghl-mcp-server": [
+    "mcp server",
+    "model context protocol",
+    "highlevel mcp"
+  ],
+  "ghl-agent-studio": [
+    "agent studio"
+  ],
+  "ghl-ai-studio": [
+    "ai studio",
+    "ai agent studio"
+  ],
+  "ghl-knowledge-bases": [
+    "knowledge base"
+  ],
+  "ghl-voice-ai": [
+    "voice ai"
+  ],
+  "ghl-conversation-ai": [
+    "conversation ai",
+    "conversations ai",
+    "conversational ai"
+  ],
+  "ghl-workflow-ai": [
+    "workflow ai",
+    "ai workflow",
+    "ai-powered custom code",
+    "ai decision maker",
+    "ai intent detection",
+    "ai summarize",
+    "ai translate",
+    "ai extract data"
+  ],
+  "ghl-ai-employee": [
+    "ai employee",
+    "ai tools in highlevel",
+    "ai usage dashboard",
+    "ai build hours",
+    "ask ai"
+  ],
+  "ghl-a2p-registration": [
+    "a2p",
+    "10dlc",
+    "tcr ",
+    "brand registration",
+    "campaign registration",
+    "campaign verify",
+    "cv token"
+  ],
+  "ghl-email-deliverability": [
+    "deliverability",
+    "spf",
+    "dkim",
+    "dmarc",
+    "sender reputation",
+    "domain warmup",
+    "email warm",
+    "email bounce",
+    "going to spam",
+    "google postmaster",
+    "list unsubscribe",
+    "sender authentication",
+    "email authentication",
+    "esp block",
+    "blacklisted domain",
+    "ip reputation",
+    "domain reputation",
+    "rfc 5322",
+    "google-yahoo",
+    "yahoo bulk"
+  ],
+  "ghl-lc-email": [
+    "lc email",
+    "lc-email",
+    "what is lc email",
+    "dedicated sending domain",
+    "dedicated email",
+    "dedicated ip",
+    "domain warmup",
+    "rampup",
+    "email risk assessment"
+  ],
+  "ghl-email": [
+    "email campaign",
+    "email template",
+    "email builder",
+    "email statistics",
+    "email notification",
+    "email signature",
+    "send email",
+    "smtp",
+    "mailgun",
+    "rss email",
+    "two-way email",
+    "email verification",
+    "email sequence",
+    "email ai",
+    "email service",
+    "preference management",
+    "resend to unopened"
+  ],
+  "ghl-chat-widget": [
+    "chat widget",
+    "web chat",
+    "live chat"
+  ],
+  "ghl-messaging": [
+    " sms",
+    "sms ",
+    " mms",
+    "mms ",
+    "messaging",
+    "rcs",
+    "whatsapp",
+    "text message",
+    "text2pay",
+    "messaging policy",
+    "messaging compliance"
+  ],
+  "ghl-phone-system": [
+    "phone system",
+    "lc phone",
+    "phone number",
+    "voicemail",
+    "ivr",
+    "twilio",
+    "call routing",
+    "missed call",
+    "spam likely",
+    "shaken",
+    "stir",
+    "cnam",
+    "outbound call",
+    "inbound call",
+    "porting",
+    "number pool",
+    "call tracking",
+    "call recording",
+    "call forwarding",
+    "call disposition",
+    "free caller registry",
+    "verified caller id",
+    "softphone",
+    "deskphone",
+    "voip"
+  ],
+  "ghl-workflow-triggers": [
+    "workflow trigger"
+  ],
+  "ghl-workflow-actions": [
+    "workflow action",
+    "what are workflow actions",
+    "a list of workflow actions"
+  ],
+  "ghl-workflow-builder": [
+    "workflow builder",
+    "workflow ai assistant",
+    "workflow ai builder",
+    "advanced builder",
+    "workflow version history",
+    "workflow auto-save",
+    "workflow undo",
+    "keyboard shortcuts in workflow"
+  ],
+  "ghl-workflows": [
+    "workflow",
+    "automation",
+    "campaigns are no longer maintained"
+  ],
+  "ghl-calendars-appointments": [
+    "calendar",
+    "appointment",
+    "booking",
+    "scheduling",
+    "recurring meeting",
+    "service calendar",
+    "round robin",
+    "class booking",
+    "collective booking",
+    "event calendar",
+    "rentals"
+  ],
+  "ghl-surveys": [
+    "survey"
+  ],
+  "ghl-forms": [
+    "form builder",
+    "form submitted",
+    "form submission",
+    "form response",
+    "create a contact form",
+    "highlevel forms",
+    "forms and surveys",
+    "form and survey",
+    "exit-intent",
+    "math calculation"
+  ],
+  "ghl-conversations": [
+    "conversations",
+    "inbox",
+    "internal comment",
+    "draft message",
+    "activity card",
+    "conversation view",
+    "sla"
+  ],
+  "ghl-ecommerce-store": [
+    "ecommerce",
+    "e-commerce",
+    "online store",
+    "product details",
+    "shopify",
+    "woocommerce",
+    "printful",
+    "printify",
+    "store checkout",
+    "shopping cart",
+    "product collection",
+    "order form",
+    "bump offer",
+    "abandoned checkout",
+    "product review",
+    "gift card",
+    "manual payment"
+  ],
+  "ghl-payments": [
+    "payment",
+    "invoice",
+    "billing",
+    "stripe",
+    "subscription",
+    "checkout",
+    "tax",
+    "nmi",
+    "authorize.net",
+    "authorize-net",
+    "razorpay",
+    "square",
+    "paypal",
+    "adyen",
+    "ach",
+    "refund",
+    "coupon",
+    "estimate",
+    "wallet",
+    "rebilling",
+    "auto-recharge"
+  ],
+  "ghl-documents-contracts": [
+    "document",
+    "contract",
+    "signature",
+    "e-sign",
+    "decline document",
+    "documents-contracts"
+  ],
+  "ghl-reputation-management-reviews": [
+    "review",
+    "reputation",
+    "reviews ai",
+    "google review",
+    "review request",
+    "video testimonial"
+  ],
+  "ghl-custom-objects": [
+    "custom object"
+  ],
+  "ghl-companies": [
+    "companies",
+    "company object",
+    "company-based",
+    "associated company",
+    "company changed",
+    "company created"
+  ],
+  "ghl-opportunities-pipelines": [
+    "opportunit",
+    "pipeline"
+  ],
+  "ghl-tasks": [
+    "task management",
+    "task added",
+    "task completed",
+    "task reminder",
+    "recurring task",
+    "tasks across",
+    "internal tasks"
+  ],
+  "ghl-crm": [
+    "crm",
+    "manage and merge duplicates",
+    "contact detail page",
+    "smart list"
+  ],
+  "ghl-contacts": [
+    "contacts",
+    "contact tag",
+    "contact field",
+    "contact changed",
+    "contact created",
+    "contact dnd",
+    "contact engagement",
+    "contact follower",
+    "import contact",
+    "export contacts"
+  ],
+  "ghl-sites": [
+    "funnel",
+    "website",
+    "websites",
+    "blog",
+    "blog post",
+    "landing page",
+    "wordpress",
+    "page builder",
+    "site builder",
+    "site analytics",
+    "funnel analytics",
+    "qr code",
+    "global section",
+    "saved section",
+    "universal element"
+  ],
+  "ghl-saas-configurator": [
+    "saas",
+    "saas mode",
+    "saas configurator",
+    "saas plan"
+  ],
+  "ghl-account-snapshots": [
+    "snapshot"
+  ],
+  "ghl-agency-view": [
+    "agency",
+    "agency dashboard",
+    "agency company settings",
+    "agency billing",
+    "agency launchpad",
+    "agency owner",
+    "agency plan",
+    "agency tax id"
+  ],
+  "ghl-settings": [
+    "settings",
+    "business profile",
+    "user role",
+    "user access",
+    "user permission",
+    "two-factor authentication",
+    "single sign-on",
+    "sso",
+    "authenticator app"
+  ],
+  "ghl-dashboards": [
+    "dashboard",
+    "widget",
+    "custom report",
+    "report scheduler"
+  ],
+  "ghl-reporting": [
+    "report",
+    "analytics",
+    "statistics",
+    "audit log",
+    "webhook log"
+  ],
+  "ghl-integrations": [
+    "integration",
+    "zapier",
+    "google sheets",
+    "google calendar",
+    "google contact",
+    "outlook",
+    "zoom",
+    "calendly",
+    "slack",
+    "shippo",
+    "shipstation",
+    "quickbooks",
+    "xero",
+    "jobber",
+    "servicetitan",
+    "notion",
+    "asana",
+    "airtable",
+    "clickup",
+    "monday.com",
+    "linear",
+    "manus",
+    "vapi",
+    "fathom",
+    "basecamp",
+    "typeform",
+    "google forms",
+    "hubspot",
+    "apify",
+    "skool",
+    "kajabi",
+    "mailchimp",
+    "convertkit",
+    "klaviyo",
+    "activecampaign",
+    "pipedrive",
+    "salesforce",
+    "kartra",
+    "keap",
+    "clickfunnels",
+    "wix",
+    "zoho",
+    "squarespace",
+    "jotform",
+    "weebly",
+    "duda",
+    "first promoter",
+    "firstpromoter",
+    "cal.com",
+    "openrouter",
+    "mistral",
+    "gpt-",
+    "gpt "
+  ],
+  "ghl-app-marketplace": [
+    "marketplace",
+    "app marketplace",
+    "private integration",
+    "oauth",
+    "marketplace app"
+  ],
+  "ghl-media-storage": [
+    "media storage",
+    "media library",
+    "file upload",
+    "canva"
+  ],
+  "ghl-memberships-communities": [
+    "community",
+    "communities",
+    "membership",
+    "course",
+    "lesson",
+    "gokollab",
+    "go live",
+    "live streaming",
+    "live rooms",
+    "kollab",
+    "drip",
+    "assessment"
+  ],
+  "ghl-client-portal": [
+    "client portal"
+  ],
+  "ghl-certificates": [
+    "certificate",
+    "badge",
+    "credential"
+  ],
+  "ghl-merge-fields-custom-variables": [
+    "merge field",
+    "custom value",
+    "custom variable",
+    "custom field"
+  ],
+  "ghl-developer-resources": [
+    "api",
+    "webhook",
+    "developer",
+    "sdk",
+    "private app",
+    "highlevel api documentation"
+  ],
+  "ghl-platform-updates": [
+    "release",
+    "what's new",
+    "what's changed",
+    "platform update",
+    "changelog",
+    "highlevel platform updates"
+  ]
+}
