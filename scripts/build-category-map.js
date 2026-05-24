@@ -22,9 +22,20 @@ function titleFromSlug(url) {
   return decodeURIComponent(slug.replace(/^\d+-?/, '').replace(/-/g, ' ')).trim();
 }
 
+const FETCH_DELAY_MS = 200;
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36';
+
 async function fetchTitle(url) {
+  await sleep(FETCH_DELAY_MS);
   try {
-    const res = await fetch(url);
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': USER_AGENT,
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.5'
+      }
+    });
     const html = await res.text();
     const $ = cheerio.load(html);
     const title = $('title').first().text();

@@ -38,7 +38,8 @@
     "ai tools in highlevel",
     "ai usage dashboard",
     "ai build hours",
-    "ask ai"
+    "ask ai",
+    "eliza"
   ],
   "ghl-a2p-registration": [
     "a2p",
@@ -72,7 +73,8 @@
   "ghl-workflows": [
     "workflow",
     "automation",
-    "campaigns are no longer maintained"
+    "campaigns are no longer maintained",
+    "campaign configurations"
   ],
   "ghl-email-deliverability": [
     "deliverability",
@@ -145,6 +147,17 @@
     "text2pay",
     "messaging policy",
     "messaging compliance"
+  ],
+  "ghl-compliance": [
+    "hipaa",
+    "gdpr",
+    "soc 2",
+    "data privacy",
+    "regulatory bundle",
+    "kyc verification",
+    "data protection",
+    "compliance and security",
+    "security and compliance"
   ],
   "ghl-phone-system": [
     "phone system",
@@ -334,6 +347,55 @@
     "saved section",
     "universal element"
   ],
+  "ghl-social-planner": [
+    "social planner",
+    "social media",
+    "social post",
+    "social calendar",
+    "facebook instagram",
+    "facebook publishing",
+    "instagram publishing",
+    "linkedin publishing",
+    "tiktok publishing",
+    "highlevels social",
+    "auto-publish"
+  ],
+  "ghl-ad-manager": [
+    "ad manager",
+    "google ads",
+    "google search ads",
+    "facebook ad",
+    "facebook ads",
+    "instagram ad",
+    "instagram ads",
+    "ad campaign",
+    "ad account",
+    "ad performance",
+    "ad spend"
+  ],
+  "ghl-prospecting-tool": [
+    "prospecting tool",
+    "prospecting"
+  ],
+  "ghl-mobile-desktop-app": [
+    "mobile app",
+    "desktop app",
+    "ios app",
+    "android app",
+    "mobile pos",
+    "tap to pay",
+    "highlevel mobile",
+    "mobile customizer",
+    "mobile v4",
+    "mobile editor",
+    "whitelabel mobile"
+  ],
+  "ghl-affiliates-program": [
+    "affiliate",
+    "affiliates",
+    "first promoter",
+    "firstpromoter"
+  ],
   "ghl-saas-configurator": [
     "saas",
     "saas mode",
@@ -424,8 +486,6 @@
     "jotform",
     "weebly",
     "duda",
-    "first promoter",
-    "firstpromoter",
     "cal.com",
     "openrouter",
     "mistral",
@@ -489,5 +549,9 @@
     "platform update",
     "changelog",
     "highlevel platform updates"
+  ],
+  "ghl-industry-guides": [
+    "industry playbook",
+    "industry guide"
   ]
 }
