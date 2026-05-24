@@ -1,1 +1,17 @@
 .claude/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editors
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Defensive (no package installs planned)
+node_modules/
