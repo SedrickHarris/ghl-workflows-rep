@@ -4,7 +4,13 @@
   "description": "HighLevel (GHL) workflow architecture and implementation repo.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fetch:sitemap": "node scripts/fetch-sitemap.js",
+    "categorize": "node scripts/build-category-map.js",
+    "recategorize": "node scripts/recategorize.js",
+    "validate": "node scripts/validate.js",
+    "summarize": "node scripts/summarize.js",
+    "update": "npm run fetch:sitemap && npm run categorize && npm run validate && npm run summarize"
   },
   "repository": {
     "type": "git",

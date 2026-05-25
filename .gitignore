@@ -15,6 +15,7 @@ Thumbs.db
 
 # Node.js
 node_modules/
-# Categorization script inputs/outputs (regeneratable, not source)
+# Categorization script inputs (raw sitemap from HighLevel; not source)
 paste.txt
-output/
+# Full categorization output (~750KB, regeneratable); ship summaries instead
+output/sitemap-category-urls.json
